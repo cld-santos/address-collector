@@ -102,3 +102,4 @@ ENV/
 
 node_modules/
 bundle.js
+*.sqlite3
